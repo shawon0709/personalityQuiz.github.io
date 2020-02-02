@@ -2,61 +2,61 @@
     "quiz1" :{
                 "question": "What is the last color you had on your nails?",
                 "totalQuestion": 5,
-                "quesImage": "lib/img/1.jpg",
+                "quesImage": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/1.jpg",
                 "options": ["Red:1", "Black:2", "Pink:3", "Blue:4", "French manicure/ Other/ I don’t usually paint my nails:5"]
     },
     "quiz2" :{
         "question": "Are you painting your nails for a specific special event?",
         "totalQuestion": 4,
-        "quesImage": "lib/img/2.jpg",
+        "quesImage": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/2.jpg",
         "options": ["Yes, a party (formal such as a wedding).:1","Yes, going on a night out or to a party (informal such as a house party or gathering of friends). :2", "Yes, going on a date.:3", "No, I just want my hands to look pretty.:4"]
     },
     "quiz3" :{
         "question": "True or false: I always usually wear the same color.",
         "totalQuestion": 2,
-        "quesImage": "lib/img/3.jpeg",
+        "quesImage": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/3.jpeg",
         "options": ["True:1","False:2"]
     },
     "quiz4" :{
         "question": "True or false: I want to go for something bold and different that I wouldn’t usually wear.",
         "totalQuestion": 2,
-        "quesImage": "lib/img/4.jpg",
+        "quesImage": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/4.jpg",
         "options": ["True:1","False:2"]
     },
     "quiz5" :{
         "question": "Do you follow the latest beauty trends? ",
         "totalQuestion": 2,
-        "quesImage": "lib/img/5.jpg",
+        "quesImage": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/5.jpg",
         "options": ["True:1","False:2"]
     },
     "quiz6" :{
         "question": "What is your signature style?",
         "totalQuestion": 5,
-        "quesImage": "lib/img/6.jfif",
+        "quesImage": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/6.jfif",
         "options": ["Classy :1","Glamorous :2","Trendy, high fashion  :3","Boho :4","I don’t really have one style  :5"]
     },
     "quiz7" :{
         "question": "What is your favorite group of colors?",
         "totalQuestion": 4,
-        "quesImage": "lib/img/7.jpg",
+        "quesImage": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/7.jpg",
         "options": ["Reds, purples and pinks:1","Dark colors such as black and grey:2","Blues and greens:3","Bright shades such as yellow and orange:4"]
     },
     "quiz8" :{
         "question": "Do you like clashing colours or patterns on your nails?",
         "totalQuestion": 2,
-        "quesImage": "lib/img/8.jpg",
+        "quesImage": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/8.jpg",
         "options": ["True:1","False:2"]
     },
     "quiz9" :{
         "question": "What type of clothes will you be wearing for the next few days?",
         "totalQuestion": 4,
-        "quesImage": "lib/img/9.jpg",
+        "quesImage": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/9.jpg",
         "options": ["Dresses and skirts:1","Suits or formal work gear:2","Casual jeans and t-shirts:3","A mix of everything:4"]
     },
     "quiz10" :{
         "question": "Do you like to have your nails match a part of your outfit or your accessories?",
         "totalQuestion": 2,
-        "quesImage": "lib/img/10.jpg",
+        "quesImage": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/10.jpg",
         "options": ["True:1","False:2"]
     },
     "Result" :{
@@ -106,28 +106,28 @@
         "resDes30": "You got : Result 21",
         "resDes31": "You got : Result 22",
         "resDes32": "You got : Result 23",
-        "resImage10": "lib/img/ans2.jpg",
-        "resImage11": "lib/img/ans1.jpg",
-        "resImage12": "lib/img/ans2.jpg",
-        "resImage13": "lib/img/ans1.jpg",
-        "resImage14": "lib/img/ans2.jpg",
-        "resImage15": "lib/img/ans1.jpg",
-        "resImage16": "lib/img/ans2.jpg",
-        "resImage17": "lib/img/ans1.jpg",
-        "resImage18": "lib/img/ans2.jpg",
-        "resImage19": "lib/img/ans1.jpg",
-        "resImage20": "lib/img/ans2.jpg",
-        "resImage21": "lib/img/ans1.jpg",
-        "resImage22": "lib/img/ans2.jpg",
-        "resImage23": "lib/img/ans1.jpg",
-        "resImage24": "lib/img/ans2.jpg",
-        "resImage25": "lib/img/ans1.jpg",
-        "resImage26": "lib/img/ans2.jpg",
-        "resImage27": "lib/img/ans1.jpg",
-        "resImage28": "lib/img/ans2.jpg",
-        "resImage29": "lib/img/ans1.jpg",
-        "resImage30": "lib/img/ans2.jpg",
-        "resImage31": "lib/img/ans1.jpg",
-        "resImage32": "lib/img/ans2.jpg"
+        "resImage10": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans2.jpg",
+        "resImage11": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans1.jpg",
+        "resImage12": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans2.jpg",
+        "resImage13": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans1.jpg",
+        "resImage14": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans2.jpg",
+        "resImage15": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans1.jpg",
+        "resImage16": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans2.jpg",
+        "resImage17": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans1.jpg",
+        "resImage18": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans2.jpg",
+        "resImage19": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans1.jpg",
+        "resImage20": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans2.jpg",
+        "resImage21": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans1.jpg",
+        "resImage22": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans2.jpg",
+        "resImage23": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans1.jpg",
+        "resImage24": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans2.jpg",
+        "resImage25": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans1.jpg",
+        "resImage26": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans2.jpg",
+        "resImage27": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans1.jpg",
+        "resImage28": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans2.jpg",
+        "resImage29": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans1.jpg",
+        "resImage30": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans2.jpg",
+        "resImage31": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans1.jpg",
+        "resImage32": "https://shawon0709.github.io/personalityQuiz.github.io/lib/img/ans2.jpg"
     }
 }
